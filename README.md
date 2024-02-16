@@ -15,7 +15,7 @@ After typing `python Library_Management_System.py` into the terminal, You will b
 1) List Books
 2) Add Book
 3) Remove Book
-Q) QUIT
+4) (Q) QUIT
 
 You can list the books in the file by pressing with 1.
 You can also add different books by pressing 2.
