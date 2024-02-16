@@ -1,5 +1,5 @@
 # Library Management System 
-A simple project that classifies gender based on facial features using machine learning.
+A project representing a library management system.
 
 ## Setup
 You can download and use the file.
