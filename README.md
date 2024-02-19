@@ -23,7 +23,7 @@ You can also remove any book you want from the list by pressing 3.
 When you run the code, file.txt will be created automatically.
 If you want to intervene in the file from outside
 The format of the content of the file should be as follows;
-Kitap_name,auther, release_date, number_of_pages
+Book_name,writer, release_date, number_of_pages
 
 ### Dependencies
 - Python
