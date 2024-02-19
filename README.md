@@ -4,7 +4,7 @@ A project representing a library management system.
 ## Setup
 You can download and use the file.
 Steps to install project dependencies and run the project:
-After downloading the file, make sure to update the file path in the `config.py` file to point to the location where your data is stored.
+After downloading the file, make sure to update the file path in the file to point to the location where your data is stored
 After downloading the file, you can run it with Python3 in the same file.
 Or you can type 
 `python Library_Management_System.py`
